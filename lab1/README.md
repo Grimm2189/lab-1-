@@ -7,3 +7,4 @@
 
 Зависимость времени вычисления матрицы от размера матрицы:
 
+<img width="670" height="339" alt="матрица" src="https://github.com/user-attachments/assets/620b2567-2133-4899-b7da-df44dd81038a" />
