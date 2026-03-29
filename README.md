@@ -3,3 +3,5 @@
 
 <img width="448" height="139" alt="image" src="https://github.com/user-attachments/assets/188ba16f-341c-4ce4-9a1b-e3ec85720fed" />
 <img width="811" height="484" alt="image" src="https://github.com/user-attachments/assets/8777ba18-73b2-407b-9f03-3bb2e822ebcd" />
+
+Вывод: чем больше потоков, тем меньше затрачиваемого времени на выполнение расчёта для матриц
