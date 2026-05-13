@@ -3,8 +3,12 @@
    с разным количеством вычислительных ядер (1, 2, 4, 8 и т.д.).
 
 4 л.р Параллельную версию программы на MPI необходимо также запустить на суперкомпьютере «Сергей Королёв».
+
+
 ФАЙЛЫ РЕЗУЛЬТАТА КОДА В СУПЕРКОМПЬЮТЕРЕ 
 <img width="545" height="648" alt="image" src="https://github.com/user-attachments/assets/2f38e6cd-b409-4f30-9240-2d88eb6e3887" />
+
+
 РЕЗУЛЬТАТЫ ВЫПОЛНЕНИЯ
 <img width="515" height="412" alt="image" src="https://github.com/user-attachments/assets/86e9d583-3410-49cb-a616-d2ad2a8bea19" />
 
